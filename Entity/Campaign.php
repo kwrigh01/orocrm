@@ -34,7 +34,8 @@ use OroCRM\Bundle\CampaignBundle\Entity\EmailCampaign;
  *      },
  *      "security"={
  *          "type"="ACL",
- *          "group_name"=""
+ *          "group_name"="",
+ *          "category"="marketing"
  *      },
  *      "entity"={
  *          "icon"="icon-envelope"

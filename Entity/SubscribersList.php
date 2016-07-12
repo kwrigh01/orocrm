@@ -29,7 +29,8 @@ use OroCRM\Bundle\MailChimpBundle\Model\MergeVar\MergeVarFieldsInterface;
  *      },
  *      "security"={
  *          "type"="ACL",
- *          "group_name"=""
+ *          "group_name"="",
+ *          "category"="marketing"
  *      },
  *      "entity"={
  *          "icon"="icon-group"
